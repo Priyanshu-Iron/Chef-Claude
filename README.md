@@ -62,7 +62,7 @@ To run Chef Mixtral locally, follow these steps:
 
 ## 📸 Preview
 
-![Chef Mixtral Screenshot]()
+![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/video/upload/v1737700092/Screen_Recording_2025-01-24_at_11.55.39_AM_d7psnp.mov)
 
 ---
 
@@ -101,7 +101,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For any inquiries or contributions, reach out at:
-- **Email**: your-email@example.com
+- **Email**: ps2894944@gmail.com
 - **GitHub**: [Priyanshu-Iron](https://github.com/Priyanshu-Iron)
 
 ---
