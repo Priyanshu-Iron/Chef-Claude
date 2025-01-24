@@ -60,10 +60,17 @@ To run Chef Mixtral locally, follow these steps:
 
 ---
 
+## 🌐 Live Demo
+
+Chef Mixtral is deployed on Netlify. Check it out here:
+👉 [Chef Mixtral Live](https://chef-mixtral.netlify.app/)
+
+---
+
 ## 📸 Preview
 
-![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png)
-![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png)
+![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png/800x400?text=Chef+Mixtral+Preview)
+![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png/800x400?text=Chef+Mixtral+Preview)
 ---
 
 ## 🤖 How It Works
