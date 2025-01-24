@@ -70,7 +70,7 @@ Chef Mixtral is deployed on Netlify. Check it out here:
 ## 📸 Preview
 
 ![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png)
-![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png)
+![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.55.05_AM_qp5bqg.png)
 ---
 
 ## 🤖 How It Works
