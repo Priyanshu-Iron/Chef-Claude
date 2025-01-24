@@ -62,8 +62,8 @@ To run Chef Mixtral locally, follow these steps:
 
 ## 📸 Preview
 
-![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/video/upload/v1737700092/Screen_Recording_2025-01-24_at_11.55.39_AM_d7psnp.mov)
-
+![Chef Mixtral Screenshot](https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png)
+(https://res.cloudinary.com/dkslm53fp/image/upload/v1737700088/Screenshot_2025-01-24_at_11.54.39_AM_czdtjj.png)
 ---
 
 ## 🤖 How It Works
